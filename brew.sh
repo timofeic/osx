@@ -3,7 +3,7 @@
 # Brew formulas to install
 
 checkexec() {
-  if [[$? != 0 ]] ; then
+  if [[ $? != 0 ]] ; then
     echo "Non-zero return code"
     echo "Please check the last formula was installed correctly"
     exit 1
@@ -11,13 +11,7 @@ checkexec() {
 }
 brew install csshX
 checkexec
-brew install ssh
-checkexec
-brew install openssh
-checkexec
 brew install wget
-checkexec
-brew install strace
 checkexec
 brew install sipcalc
 checkexec
