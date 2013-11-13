@@ -18,3 +18,4 @@ checkexec
 brew install tmux
 checkexec
 brew install tree
+checkexec
