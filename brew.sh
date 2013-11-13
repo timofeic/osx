@@ -9,6 +9,8 @@ checkexec() {
     exit 1
   fi
 }
+brew install zsh
+checkexec
 brew install csshX
 checkexec
 brew install wget
