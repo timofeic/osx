@@ -9,15 +9,13 @@ checkexec() {
     exit 1
   fi
 }
-brew install zsh
+brew install fish
 checkexec
 brew install csshX
 checkexec
 brew install wget
 checkexec
 brew install sipcalc
-checkexec
-brew install tmux
 checkexec
 brew install tree
 checkexec
