@@ -19,3 +19,5 @@ brew install sipcalc
 checkexec
 brew install tree
 checkexec
+brew install pyenv
+checkexec
