@@ -9,7 +9,7 @@ checkexec() {
     exit 1
   fi
 }
-brew install fish
+brew install zsh
 checkexec
 brew install csshX
 checkexec
@@ -20,4 +20,6 @@ checkexec
 brew install tree
 checkexec
 brew install pyenv
+checkexec
+brew install macvim
 checkexec
