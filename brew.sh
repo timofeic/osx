@@ -11,7 +11,7 @@ checkexec() {
 }
 brew install zsh
 checkexec
-brew install csshX
+brew install git
 checkexec
 brew install wget
 checkexec
