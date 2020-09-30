@@ -1,6 +1,10 @@
 osx
 ===
 
+1. iTerm (https://www.iterm2.com/downloads.html)
+1. magnet (App Store)
+1. https://code.visualstudio.com/
+
 Scripts and apps to install when rebuilding osx.
 
 additional notes to self:
