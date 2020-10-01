@@ -2,7 +2,8 @@ osx
 ===
 
 1. iTerm (https://www.iterm2.com/downloads.html)
-1. magnet (App Store)
+1. Magnet (App Store)
+1. Clocker (App Store)
 1. https://code.visualstudio.com/
 
 Scripts and apps to install when rebuilding osx.
