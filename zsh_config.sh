@@ -1,7 +1,7 @@
 #!/bin/bash
 # depends on brew.sh - to install zsh
-git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+/bin/bash -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/custom/themes/powerlevel10k
 cp ~/.zshrc ~/.zshrc.orig
 cp zshrc_tim ~/.zshrc
 chsh -s /bin/zsh
