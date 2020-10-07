@@ -15,3 +15,4 @@ additional notes to self:
 1. install virtualenv in non-system python
 1. ./zsh_config.sh
 1. ./vim_setup.sh
+1. ./python_setup.sh
