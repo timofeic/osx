@@ -16,5 +16,5 @@ additional notes to self:
 1. ./zsh_config.sh
 1. ./vim_setup.sh
 1. ./python_setup.sh
-1. install aws cli (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+1. ./awscli_install.sh
 1. npm install -g @aws-amplify/cli
