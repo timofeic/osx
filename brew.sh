@@ -23,3 +23,7 @@ brew install pyenv
 checkexec
 brew install macvim
 checkexec
+brew install miniforge
+checkexec
+brew install node
+checkexec
